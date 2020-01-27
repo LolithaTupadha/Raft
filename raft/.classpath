@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/lolithasrestatupadha/.m2/repository/io/grpc/grpc-stub/1.23.0/grpc-stub-1.23.0.jar" sourcepath="/Users/lolithasrestatupadha/.m2/repository/io/grpc/grpc-stub/1.23.0/grpc-stub-1.23.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.grpc"/>
+			<attribute name="maven.artifactId" value="grpc-stub"/>
+			<attribute name="maven.version" value="1.23.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/lolithasrestatupadha/.m2/repository/io/grpc/grpc-api/1.23.0/grpc-api-1.23.0.jar" sourcepath="/Users/lolithasrestatupadha/.m2/repository/io/grpc/grpc-api/1.23.0/grpc-api-1.23.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.grpc"/>
+			<attribute name="maven.artifactId" value="grpc-api"/>
+			<attribute name="maven.version" value="1.23.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/lolithasrestatupadha/.m2/repository/io/grpc/grpc-protobuf/1.23.0/grpc-protobuf-1.23.0.jar" sourcepath="/Users/lolithasrestatupadha/.m2/repository/io/grpc/grpc-protobuf/1.23.0/grpc-protobuf-1.23.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.grpc"/>
+			<attribute name="maven.artifactId" value="grpc-protobuf"/>
+			<attribute name="maven.version" value="1.23.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/lolithasrestatupadha/.m2/repository/com/google/protobuf/protobuf-java/3.9.0/protobuf-java-3.9.0.jar" sourcepath="/Users/lolithasrestatupadha/.m2/repository/com/google/protobuf/protobuf-java/3.9.0/protobuf-java-3.9.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.google.protobuf"/>
+			<attribute name="maven.artifactId" value="protobuf-java"/>
+			<attribute name="maven.version" value="3.9.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/lolithasrestatupadha/.m2/repository/com/google/guava/guava/26.0-android/guava-26.0-android.jar" sourcepath="/Users/lolithasrestatupadha/.m2/repository/com/google/guava/guava/26.0-android/guava-26.0-android-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.google.guava"/>
+			<attribute name="maven.artifactId" value="guava"/>
+			<attribute name="maven.version" value="26.0-android"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="java/target"/>
+	<classpathentry excluding="target/" kind="src" path="java"/>
+	<classpathentry exported="true" kind="lib" path="/Users/lolithasrestatupadha/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar" sourcepath="/Users/lolithasrestatupadha/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="javax.annotation"/>
+			<attribute name="maven.artifactId" value="javax.annotation-api"/>
+			<attribute name="maven.version" value="1.3.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="src" path="/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
